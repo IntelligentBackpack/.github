@@ -1,4 +1,4 @@
-## Hi there 👋
+## Intelligent Backpack
 The Intelligent Backpack project is a way to re-design the school's backpack organization, in order to simplify the student and professor life organizing lessons and the material necessary
 for the lessons.
 This project involves different technologies, such as:
